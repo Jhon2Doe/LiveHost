@@ -21,8 +21,8 @@ This script performs a quick scan to check for active hosts in a given subnet us
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/subnet-scanner.git
-cd subnet-scanner
+git clone https://github.com/Jhon2Doe/LiveHost.git
+cd LiveHost
 ```
 
 ### 2. Make the Script Executable:
